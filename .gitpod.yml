@@ -1,0 +1,3 @@
+tasks:
+  - name: sms.sdk
+    init: pip install -r requirements.txt 
