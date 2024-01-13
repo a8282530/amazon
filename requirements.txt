@@ -1,0 +1,4 @@
+curl_cffi --pre
+rich==13.4.1
+httpx
+httpx[http2]
