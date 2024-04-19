@@ -1,4 +1,6 @@
 curl_cffi --pre
 rich==13.4.1
+numpy
+opencv-python
 httpx
 httpx[http2]
