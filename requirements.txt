@@ -1,6 +1,9 @@
 curl_cffi --pre
 rich==13.4.1
 numpy
-opencv-python
+opencv-python-headless
 httpx
 httpx[http2]
+Flask
+flask_cors
+flask_compress
